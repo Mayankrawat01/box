@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: o;
+}
+.container{
+    
+}
+.box{
+    width: 200px;
+    height: 250px;
+    background-color: black;
+    border: 2px solid black;
+position: absolute;
+left: 45%;
+top: 30%;
+    
+
+}
+.card1{
+    width: 195px;
+    height: 180px;
+    background-color: chartreuse;
+    border: 2px solid chartreuse;
+    border-radius: 5px;
+text-align: center;
+
+}
+
+
